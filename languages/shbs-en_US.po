@@ -1,0 +1,239 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Shuttle Bus\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-20 16:07+0000\n"
+"PO-Revision-Date: 2017-02-20 16:52+0000\n"
+"Last-Translator: gestor <administracion@dnsempresas.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en-US\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. URI of the plugin
+msgid "http://dnsempresas.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "Dennis Piedra Yalint"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://denmasoft.com"
+msgstr ""
+
+#: shuttleBus.php:349 shortcodes/booking.php:55
+msgid "Min. _pas_ Pas."
+msgstr "Min. _pas_ Pas."
+
+#: shuttleBus.php:350 shortcodes/booking.php:56
+msgid ""
+"To or From location missing. When searching for a shuttle please select an "
+"address from the dropdown field."
+msgstr ""
+"To or From location missing. When searching for a shuttle please select an "
+"address from the dropdown field."
+
+#: shuttleBus.php:351 shortcodes/booking.php:57
+msgid "Please, Check your phone number."
+msgstr "Please, Check your phone number."
+
+#: shuttleBus.php:352 shortcodes/booking.php:58
+msgid "Invalid card number."
+msgstr "Please, Check your phone number."
+
+#: shuttleBus.php:353 shortcodes/booking.php:59
+msgid "Please, Check your card expiration date."
+msgstr "Please, Check your card expiration date."
+
+#: shuttleBus.php:354 shortcodes/booking.php:60
+msgid "Please, check your cvv number."
+msgstr "Please, check your cvv number."
+
+#: shuttleBus.php:355 shortcodes/booking.php:61
+msgid "This value is invalid."
+msgstr "This value is invalid."
+
+#: shuttleBus.php:356 shortcodes/booking.php:62
+msgid "The email format is incorrect."
+msgstr "The email format is incorrect."
+
+#: shuttleBus.php:357 shortcodes/booking.php:63
+msgid "The DNI is invalid."
+msgstr "The DNI is invalid."
+
+#: shuttleBus.php:358 shortcodes/booking.php:64
+msgid "You must introduce your name."
+msgstr "You must introduce your name."
+
+#: shuttleBus.php:359 shortcodes/booking.php:65
+msgid "You must introduce your last names."
+msgstr "You must introduce your last names."
+
+#: shuttleBus.php:360 shortcodes/booking.php:66
+msgid "You must introduce your phone number."
+msgstr "You must introduce your phone number."
+
+#: shuttleBus.php:1609
+msgid "Reservations must be made _hours_ in advance."
+msgstr "Reservations must be made _hours_ in advance."
+
+#: shuttleBus.php:1617
+msgid "Reservations must be made _days_ in advance."
+msgstr "Reservations must be made _days_ in advance."
+
+#: shuttleBus.php:1634
+msgid "No routes availables for selected date."
+msgstr "No routes availables for selected date."
+
+#: shuttleBus.php:1728 shortcodes/booking.php:3225
+msgid "Select stop..."
+msgstr "Select stop..."
+
+#: shortcodes/booking.php:3133
+msgid "Book shuttle"
+msgstr "Book shuttle"
+
+#: shortcodes/booking.php:3143 shortcodes/checkout.php:1662
+msgid "Shuttle details"
+msgstr "Shuttle details"
+
+#: shortcodes/booking.php:3155
+msgid "Booking"
+msgstr "Booking"
+
+#: shortcodes/booking.php:3175 shortcodes/booking.php:3541 
+#: shortcodes/checkout.php:1681
+msgid "Pick up"
+msgstr "Pick up"
+
+#: shortcodes/booking.php:3185
+msgid "Select stop.."
+msgstr "Select stop.."
+
+#: shortcodes/booking.php:3215
+msgid "Destination"
+msgstr "Destination"
+
+#: shortcodes/booking.php:3259
+msgid "Date"
+msgstr "Date"
+
+#: shortcodes/booking.php:3279
+msgid "Start"
+msgstr "Start"
+
+#: shortcodes/booking.php:3325
+msgid "Shuttles"
+msgstr "Shuttles"
+
+#: shortcodes/booking.php:3369
+msgid "Departure Hour"
+msgstr "Departure Hour"
+
+#: shortcodes/booking.php:3371
+msgid "No. Passengers"
+msgstr "No. Passengers"
+
+#: shortcodes/booking.php:3373
+msgid "Total Price"
+msgstr "Total Price"
+
+#: shortcodes/booking.php:3435
+msgid "Personal Details"
+msgstr "Personal Details"
+
+#: shortcodes/booking.php:3447
+msgid "Name"
+msgstr "Name"
+
+#: shortcodes/booking.php:3461
+msgid "Last Name"
+msgstr "Last Name"
+
+#: shortcodes/booking.php:3479
+msgid "Email"
+msgstr "Email"
+
+#: shortcodes/booking.php:3493
+msgid "Phone"
+msgstr "Phone"
+
+#: shortcodes/booking.php:3511
+msgid "Notes"
+msgstr "Notes"
+
+#: shortcodes/booking.php:3523
+msgid "Drop off"
+msgstr "Drop off"
+
+#: shortcodes/booking.php:3572
+msgid "Payment Details"
+msgstr "Payment Details"
+
+#: shortcodes/booking.php:3584
+msgid "Card holder"
+msgstr "Card holder"
+
+#: shortcodes/booking.php:3598
+msgid "Card number"
+msgstr "Card number"
+
+#: shortcodes/booking.php:3616
+msgid "Expiration date"
+msgstr "Expiration date"
+
+#: shortcodes/booking.php:3628
+msgid "Card CVV"
+msgstr "Card CVV"
+
+#: shortcodes/booking.php:3654
+msgid "Confirm Shuttle"
+msgstr "Confirm Shuttle"
+
+#: shortcodes/checkout.php:60 shortcodes/checkout.php:66
+msgid "Shuttle Booking"
+msgstr "Shuttle Booking"
+
+#: shortcodes/checkout.php:71
+msgid "Thanks for using our booking system."
+msgstr "Thanks for using our booking system."
+
+#: shortcodes/checkout.php:75
+msgid "Payment failed.Please, check your data."
+msgstr "Payment failed.Please, check your data."
+
+#: shortcodes/checkout.php:85
+msgid "Oh oh. Something went wrong"
+msgstr "Oh oh. Something went wrong"
+
+#: shortcodes/checkout.php:1669
+msgid "From"
+msgstr "From"
+
+#: shortcodes/checkout.php:1675
+msgid "To"
+msgstr "To"
+
+#: shortcodes/checkout.php:1687
+msgid "Time"
+msgstr "Time"
+
+#: shortcodes/checkout.php:1693
+msgid "Passengers"
+msgstr "Passengers"
+
+#: shortcodes/checkout.php:1699
+msgid "Total"
+msgstr "Total"
+
+#. Name of the plugin
+msgid "Shuttle Bus"
+msgstr "Shuttle Bus"
+
+#. Description of the plugin
+msgid "Shuttle Bus."
+msgstr "Shuttle Bus."

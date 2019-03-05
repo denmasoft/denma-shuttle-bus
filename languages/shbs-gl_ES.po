@@ -1,0 +1,239 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Shuttle Bus\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-20 16:02+0000\n"
+"PO-Revision-Date: 2017-02-20 16:53+0000\n"
+"Last-Translator: gestor <administracion@dnsempresas.com>\n"
+"Language-Team: Galician (Spain)\n"
+"Language: gl-ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. URI of the plugin
+msgid "http://dnsempresas.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "Dennis Piedra Yalint"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://denmasoft.com"
+msgstr ""
+
+#: shuttleBus.php:349 shortcodes/booking.php:55
+msgid "Min. _pas_ Pas."
+msgstr "Min. _pas_ Pax."
+
+#: shuttleBus.php:350 shortcodes/booking.php:56
+msgid ""
+"To or From location missing. When searching for a shuttle please select an "
+"address from the dropdown field."
+msgstr ""
+"Ao buscar un servizo de transporte por favor selecciona un enderezo do campo "
+"suspendido."
+
+#: shuttleBus.php:351 shortcodes/booking.php:57
+msgid "Please, Check your phone number."
+msgstr "Por favor, comprobe a seu número de teléfono."
+
+#: shuttleBus.php:352 shortcodes/booking.php:58
+msgid "Invalid card number."
+msgstr "número de tarxeta non válido."
+
+#: shuttleBus.php:353 shortcodes/booking.php:59
+msgid "Please, Check your card expiration date."
+msgstr "Por favor, comprobar a data de caducidade da tarxeta."
+
+#: shuttleBus.php:354 shortcodes/booking.php:60
+msgid "Please, check your cvv number."
+msgstr "Por favor, comprobe a súa número CVV."
+
+#: shuttleBus.php:355 shortcodes/booking.php:61
+msgid "This value is invalid."
+msgstr "Este valor non é válido."
+
+#: shuttleBus.php:356 shortcodes/booking.php:62
+msgid "The email format is incorrect."
+msgstr "O formato de correo-e está incorrecto."
+
+#: shuttleBus.php:357 shortcodes/booking.php:63
+msgid "The DNI is invalid."
+msgstr "O DNI é válido."
+
+#: shuttleBus.php:358 shortcodes/booking.php:64
+msgid "You must introduce your name."
+msgstr "Debe introducir o seu nome."
+
+#: shuttleBus.php:359 shortcodes/booking.php:65
+msgid "You must introduce your last names."
+msgstr "Debe presentar os seus apelidos."
+
+#: shuttleBus.php:360 shortcodes/booking.php:66
+msgid "You must introduce your phone number."
+msgstr "Debe introducir o seu número de teléfono."
+
+#: shuttleBus.php:1609
+msgid "Reservations must be made _hours_ in advance."
+msgstr "As reservas deben ser feitas _hours_ con antelación."
+
+#: shuttleBus.php:1617
+msgid "Reservations must be made _days_ in advance."
+msgstr "As reservas deben ser feitas _days_ con antelación."
+
+#: shuttleBus.php:1634
+msgid "No routes availables for selected date."
+msgstr "Non hai rutas dispoñibles data seleccionada."
+
+#: shuttleBus.php:1728 shortcodes/booking.php:3225
+msgid "Select stop..."
+msgstr "Select parada ..."
+
+#: shortcodes/booking.php:3133
+msgid "Book shuttle"
+msgstr "shuttle de reserva"
+
+#: shortcodes/booking.php:3143 shortcodes/checkout.php:1662
+msgid "Shuttle details"
+msgstr "detalles Shuttle"
+
+#: shortcodes/booking.php:3155
+msgid "Booking"
+msgstr "Reserva"
+
+#: shortcodes/booking.php:3175 shortcodes/booking.php:3541 
+#: shortcodes/checkout.php:1681
+msgid "Pick up"
+msgstr "Recoller"
+
+#: shortcodes/booking.php:3185
+msgid "Select stop.."
+msgstr "Seleccione Deter .."
+
+#: shortcodes/booking.php:3215
+msgid "Destination"
+msgstr "Destino"
+
+#: shortcodes/booking.php:3259
+msgid "Date"
+msgstr "Data"
+
+#: shortcodes/booking.php:3279
+msgid "Start"
+msgstr "Comezo"
+
+#: shortcodes/booking.php:3325
+msgid "Shuttles"
+msgstr "Shuttles"
+
+#: shortcodes/booking.php:3369
+msgid "Departure Hour"
+msgstr "hora de saída"
+
+#: shortcodes/booking.php:3371
+msgid "No. Passengers"
+msgstr "No pasaxeiros"
+
+#: shortcodes/booking.php:3373
+msgid "Total Price"
+msgstr "prezo total"
+
+#: shortcodes/booking.php:3435
+msgid "Personal Details"
+msgstr "Detalles persoais"
+
+#: shortcodes/booking.php:3447
+msgid "Name"
+msgstr "Nome"
+
+#: shortcodes/booking.php:3461
+msgid "Last Name"
+msgstr "Apelido"
+
+#: shortcodes/booking.php:3479
+msgid "Email"
+msgstr "Email"
+
+#: shortcodes/booking.php:3493
+msgid "Phone"
+msgstr "Teléfono"
+
+#: shortcodes/booking.php:3511
+msgid "Notes"
+msgstr "Notas"
+
+#: shortcodes/booking.php:3523
+msgid "Drop off"
+msgstr "Soltar"
+
+#: shortcodes/booking.php:3572
+msgid "Payment Details"
+msgstr "Detalles do pagamento"
+
+#: shortcodes/booking.php:3584
+msgid "Card holder"
+msgstr "Titular da tarxeta"
+
+#: shortcodes/booking.php:3598
+msgid "Card number"
+msgstr "Número de tarxeta"
+
+#: shortcodes/booking.php:3616
+msgid "Expiration date"
+msgstr "data de caducidade"
+
+#: shortcodes/booking.php:3628
+msgid "Card CVV"
+msgstr "CVV tarxeta"
+
+#: shortcodes/booking.php:3654
+msgid "Confirm Shuttle"
+msgstr "Confirme Shuttle"
+
+#: shortcodes/checkout.php:60 shortcodes/checkout.php:66
+msgid "Shuttle Booking"
+msgstr "Reserva de Shuttle"
+
+#: shortcodes/checkout.php:71
+msgid "Thanks for using our booking system."
+msgstr "Grazas por usar o noso sistema de reservas."
+
+#: shortcodes/checkout.php:75
+msgid "Payment failed.Please, check your data."
+msgstr "Fallo no pago. Por favor, asegúrese de seus datos."
+
+#: shortcodes/checkout.php:85
+msgid "Oh oh. Something went wrong"
+msgstr "Oh oh. Algo deu mal"
+
+#: shortcodes/checkout.php:1669
+msgid "From"
+msgstr "De"
+
+#: shortcodes/checkout.php:1675
+msgid "To"
+msgstr "Arriba"
+
+#: shortcodes/checkout.php:1687
+msgid "Time"
+msgstr "Tempo"
+
+#: shortcodes/checkout.php:1693
+msgid "Passengers"
+msgstr "Pasaxeiros"
+
+#: shortcodes/checkout.php:1699
+msgid "Total"
+msgstr "Total"
+
+#. Name of the plugin
+msgid "Shuttle Bus"
+msgstr "Shuttle Bus"
+
+#. Description of the plugin
+msgid "Shuttle Bus."
+msgstr "Shuttle Bus."
